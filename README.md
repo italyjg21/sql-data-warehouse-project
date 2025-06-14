@@ -24,12 +24,12 @@ This project involves:
   Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 This project helps didsplay my skills in:
-  SQL Development
-  Data Architect
-  Data Engineering
-  ETL Pipeline Developer
-  Data Modeling
-  Data Analytics
+  - SQL Development
+  - Data Architect
+  - Data Engineering
+  - ETL Pipeline Developer
+  - Data Modeling
+  - Data Analytics
 
 ---
 
